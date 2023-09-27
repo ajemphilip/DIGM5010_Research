@@ -16,9 +16,10 @@
 1. https://link.springer.com/chapter/10.1007/978-3-030-58147-3_57
 1. https://ieeexplore.ieee.org/abstract/document/9929479
 1. https://dl.acm.org/doi/abs/10.1145/2451176.2451220
-# Haptic device children
+# Haptic device children/adults
 1. https://link.springer.com/article/10.1007/s10639-022-11246-7
 1. https://ieeexplore.ieee.org/abstract/document/8391842
 1. https://dl.acm.org/doi/abs/10.1145/3544548.3580844
+1. https://ieeexplore.ieee.org/abstract/document/4760140
 # Braille Spech Recognition
 1. https://ieeexplore.ieee.org/abstract/document/7743335
