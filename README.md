@@ -32,3 +32,5 @@
 1. https://ieeexplore.ieee.org/abstract/document/7743335
 # Pin Art
 1. https://www.mic.com/articles/73265/this-incredible-invention-puts-your-childhood-pin-art-toy-to-shame
+2. https://www.researchgate.net/figure/Adaptability-of-pin-array-products-a-Pin-art-b-Universal-socket_fig1_331834677
+3. https://www.researchgate.net/figure/Experiments-with-an-earlier-relief-from-our-lab-7-From-left-to-right-a-Part-of_fig2_303502108
