@@ -39,7 +39,9 @@
 7. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/527-inFORM%20Dynamic%20Physical%20Affordances/Published/PDF
 8. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/549-Physical%20Telepresence%20Shape%20Capture/Published/PDF
 9. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/600-Shape%20Displays%20Spatial%20Interaction/Published/PDF
-
+# AI Storyteling 
+1.https://ieeexplore.ieee.org/abstract/document/9522539
+1.https://dl.acm.org/doi/abs/10.1145/3491102.3517479
 # Annotated Bibliography
 Possible research questions : 
 1. Haptic-sound storytelling techniques using the automated pinboard sensations as learning support system for kids.
@@ -58,3 +60,4 @@ Possible research questions :
 1. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/549-Physical%20Telepresence%20Shape%20Capture/Published/PDF
 2. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/600-Shape%20Displays%20Spatial%20Interaction/Published/PDF
 3. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/527-inFORM%20Dynamic%20Physical%20Affordances/Published/PDF
+4. https://ieeexplore.ieee.org/abstract/document/9522539 - AI storytelling
