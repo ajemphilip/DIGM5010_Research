@@ -36,6 +36,9 @@
 4. https://books.google.ca/books?id=AvD7olaX74sC&pg=PT68&redir_esc=y#v=onepage&q&f=false
 5. https://www.researchgate.net/figure/A-young-user-feels-expressive-haptic-feedback-while-listening-to-a-story_fig1_286895914
 6. https://en.wikipedia.org/wiki/Pinscreen_animation
+7. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/527-inFORM%20Dynamic%20Physical%20Affordances/Published/PDF
+8. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/549-Physical%20Telepresence%20Shape%20Capture/Published/PDF
+9. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/600-Shape%20Displays%20Spatial%20Interaction/Published/PDF
 
 # Annotated Bibliography
 Possible research questions : 
