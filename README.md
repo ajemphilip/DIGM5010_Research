@@ -36,3 +36,9 @@
 4. https://books.google.ca/books?id=AvD7olaX74sC&pg=PT68&redir_esc=y#v=onepage&q&f=false
 5. https://www.researchgate.net/figure/A-young-user-feels-expressive-haptic-feedback-while-listening-to-a-story_fig1_286895914
 6. https://en.wikipedia.org/wiki/Pinscreen_animation
+
+# Annotated Bibliography
+Possible research questions : 
+1. Haptic-sound storytelling techniques using the automated pinboard sensations.
+2. Selective modular decision making as a story building technuque in haptic-audio storytelling using artificial inteligence.
+3. Haptic based world recognition using motorized pin art as main narrative device in the haptic storytelling
