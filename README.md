@@ -42,6 +42,7 @@
 # AI Storyteling 
 1.https://ieeexplore.ieee.org/abstract/document/9522539
 1.https://dl.acm.org/doi/abs/10.1145/3491102.3517479
+1. https://aclanthology.org/P09-1025.pdf - very good
 # Annotated Bibliography
 Possible research questions : 
 1. Haptic-sound storytelling techniques using the automated pinboard sensations as learning support system for kids.
@@ -61,3 +62,4 @@ Possible research questions :
 2. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/600-Shape%20Displays%20Spatial%20Interaction/Published/PDF
 3. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/527-inFORM%20Dynamic%20Physical%20Affordances/Published/PDF
 4. https://ieeexplore.ieee.org/abstract/document/9522539 - AI storytelling
+5. https://aclanthology.org/P09-1025.pdf - very good
