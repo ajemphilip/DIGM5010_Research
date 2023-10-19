@@ -45,3 +45,7 @@ Possible research questions :
 1. Haptic-sound storytelling techniques using the automated pinboard sensations.
 2. Selective modular decision making as a story building technuque in haptic-audio storytelling using artificial inteligence.
 3. Haptic based world recognition using motorized pin art as main narrative device in the haptic storytelling
+# Possible Selected Readings
+1. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/549-Physical%20Telepresence%20Shape%20Capture/Published/PDF
+2. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/600-Shape%20Displays%20Spatial%20Interaction/Published/PDF
+3. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/527-inFORM%20Dynamic%20Physical%20Affordances/Published/PDF
