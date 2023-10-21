@@ -9,6 +9,13 @@
 1. https://www.prp.unicamp.br/inscricao-congresso/resumos/2020P17113A27946O357.pdf - intresting sensor but might be dangerous - electric shock
 1. https://dl.acm.org/doi/abs/10.1145/3290605.3300441?casa_token=8ML9tXZuqZAAAAAA:KqX25OU197uWTtC_tYxKbXIteRDuWdgW6yYXnmMJQYz1iymnZQ4HLr_AKNU-R42ZsTnduSPenwhc - wow ! super intresting but currently not relevant
 1. https://ieeexplore.ieee.org/abstract/document/8288932?casa_token=4UVMfcU8JagAAAAA:2pNkepzgynq_EuoUn8rwhrNOBatyv8tEdjv9NfVsVVTjc__OlKLDaMdEU1Mm4AZ4HEcmLBk1**** - intresting pin think - very relevant
+# Map Generation
+1. https://dl.acm.org/doi/abs/10.1145/1053427.1053453?casa_token=mWaSQcCEB1UAAAAA:TrhffLj4SINv5aHQ7MZ7dw10LJnUDp96qOqIBn_qxmROooWtyR4zKKdaOPqJb10ivr0jFMQXZDTcqmg
+2. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5961c577478f21707dad53905362e0ec4e6ec644
+3. https://ieeexplore.ieee.org/abstract/document/6633619?casa_token=mcSWaI_imFsAAAAA:g_iOH8mLrgVcVNpYGfU7rP83-RsFOjRLmSYib_Hpp8g3UODtqgXjQZ8pA4aLiciBRkCkNsNmlFg
+4. https://ieeexplore.ieee.org/abstract/document/10250795
+5. https://link.springer.com/chapter/10.1007/978-3-031-22025-8_15
+6. https://ieeexplore.ieee.org/abstract/document/7695165?casa_token=IBVKNT6fBdgAAAAA:SZCmKjR1YvQZnf3jyOI2NMIZgXs7VnOxMFLakAEMi6kT25YVaZbrCbLTmGRnmLMmpTMTMZoz27g
 # Haptic Cognition 
 1. https://www.tandfonline.com/doi/full/10.1080/13875868.2011.599901?casa_token=tODXpJaqLeAAAAAA%3AyAPecgg705nGBwe7R0hXUtw3Gr8ratNEppYuBwkhKQhaTkfhv3p9DehmB3RtFhznc5wTWp9NrXGU1jw - might be ok
 3. https://www.nature.com/articles/s41598-022-08187-z - about sound
