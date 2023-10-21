@@ -74,3 +74,4 @@ Possible research questions :
 3. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/527-inFORM%20Dynamic%20Physical%20Affordances/Published/PDF
 4. https://ieeexplore.ieee.org/abstract/document/9522539 - AI storytelling
 5. https://aclanthology.org/P09-1025.pdf - very good
+6. https://link.springer.com/chapter/10.1007/978-3-031-22025-8_15 - tile map generation
