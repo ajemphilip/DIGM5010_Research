@@ -57,7 +57,7 @@
 # Annotated Bibliography
 Possible research questions : 
 1. Haptic-sound storytelling techniques using the automated pinboard sensations as learning support system for kids.
-2. Selective modular decision making as a cooperative story building technique in haptic-audio storytelling using pin based device and artificial inteligenceas as learning support system for kids. - good
+2. Selective modular decision making as methodology of artificial inteligence based story building technique in  height based haptic-audio realm as learning support system for kids. - good
 3. Haptic based world recognition using motorized pin art as main narrative device in the haptic storytelling as teaching support for braille alphabeth.
 # Possible Selected Readings
 1. https://dl.acm.org/doi/abs/10.1145/228347.228355 - very good - haptic sensations and textures
