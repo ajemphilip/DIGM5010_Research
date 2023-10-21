@@ -13,7 +13,6 @@
 1. https://dl.acm.org/doi/abs/10.1145/1053427.1053453?casa_token=mWaSQcCEB1UAAAAA:TrhffLj4SINv5aHQ7MZ7dw10LJnUDp96qOqIBn_qxmROooWtyR4zKKdaOPqJb10ivr0jFMQXZDTcqmg
 2. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5961c577478f21707dad53905362e0ec4e6ec644
 3. https://ieeexplore.ieee.org/abstract/document/6633619?casa_token=mcSWaI_imFsAAAAA:g_iOH8mLrgVcVNpYGfU7rP83-RsFOjRLmSYib_Hpp8g3UODtqgXjQZ8pA4aLiciBRkCkNsNmlFg
-4. https://ieeexplore.ieee.org/abstract/document/10250795
 5. https://link.springer.com/chapter/10.1007/978-3-031-22025-8_15
 6. https://ieeexplore.ieee.org/abstract/document/7695165?casa_token=IBVKNT6fBdgAAAAA:SZCmKjR1YvQZnf3jyOI2NMIZgXs7VnOxMFLakAEMi6kT25YVaZbrCbLTmGRnmLMmpTMTMZoz27g
 # Haptic Cognition 
