@@ -59,11 +59,7 @@ Possible research questions :
 2. Selective modular decision making as methodology of artificial inteligence based story building technique in  height based haptic-audio realm as learning support system for kids. - good
 3. Haptic based world recognition using motorized pin art as main narrative device in the haptic storytelling as teaching support for braille alphabeth.
 # Possible Selected Refined Readings
-1. https://dl.acm.org/doi/abs/10.1145/228347.228355 - very good - haptic sensations and textures
-2. https://link.springer.com/chapter/10.1007/978-3-319-08599-9_81 - expansion possiblity
 3. https://www.mdpi.com/2076-3417/9/5/878 - multimedia vision - very good
-4. https://journals.lww.com/optvissci/fulltext/2018/09000/fittle__a_novel_braille_toy.27.aspx?casa_token=rrpluF0DGPUAAAAA:7SWXXht8jfeGIh28UGyiDETg3CmhCWb5K-Mxg3HWkJVonkEnLXk-X46XAh3fU0SIF5SYevA7LoB6ZSQOAOx5HmQ interactive toy for braille learning - relevant
-5. https://ieeexplore.ieee.org/abstract/document/8288932?casa_token=4UVMfcU8JagAAAAA:2pNkepzgynq_EuoUn8rwhrNOBatyv8tEdjv9NfVsVVTjc__OlKLDaMdEU1Mm4AZ4HEcmLBk1**** - intresting pin thing - very relevant
 6. https://www.mdpi.com/2414-4088/4/4/79 - yes - interesting possibly
 7. https://dl.acm.org/doi/abs/10.1145/2702613.2732843 - very relevant - cooperative story telling idea
 8. https://link.springer.com/article/10.1007/s10339-012-0443-2 - interaction between touch and other senses - literature
