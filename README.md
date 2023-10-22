@@ -22,6 +22,7 @@
 5. https://psycnet.apa.org/record/1985-20614-001 - no
 6. https://www.mdpi.com/2414-4088/4/4/79 - yes - interesting
 7. https://link.springer.com/article/10.1007/s10339-012-0443-2 - interaction between touch and other senses - literature
+8. https://link.springer.com/chapter/10.1007/978-0-585-33485-1_10 - cognitive wayfinding
 # Dynamic Story Generation
 1.https://ojs.aaai.org/index.php/AIIDE/article/view/12733
 1.https://www.researchgate.net/profile/Mirjam-Palosaari-Eladhari/publication/242409102_Object_Oriented_Story_Construction_in_Story_Driven_Computer_Games/links/5cdac6a6a6fdccc9ddab0fb2/Object-Oriented-Story-Construction-in-Story-Driven-Computer-Games.pdf
