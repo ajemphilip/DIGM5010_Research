@@ -68,8 +68,6 @@ Possible research questions :
 7. https://dl.acm.org/doi/abs/10.1145/2702613.2732843 - very relevant - cooperative story telling idea
 8. https://link.springer.com/article/10.1007/s10339-012-0443-2 - interaction between touch and other senses - literature
 9. https://ieeexplore.ieee.org/abstract/document/9929479 - might be good but read more
-1. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/549-Physical%20Telepresence%20Shape%20Capture/Published/PDF
-2. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/600-Shape%20Displays%20Spatial%20Interaction/Published/PDF
 3. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/527-inFORM%20Dynamic%20Physical%20Affordances/Published/PDF
 4. https://ieeexplore.ieee.org/abstract/document/9522539 - AI storytelling
 5. https://aclanthology.org/P09-1025.pdf - very good
