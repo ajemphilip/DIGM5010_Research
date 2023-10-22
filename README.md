@@ -24,9 +24,9 @@
 7. https://link.springer.com/article/10.1007/s10339-012-0443-2 - interaction between touch and other senses - literature
 8. https://link.springer.com/chapter/10.1007/978-0-585-33485-1_10 - cognitive wayfinding
 # Dynamic Story Generation
-1.https://ojs.aaai.org/index.php/AIIDE/article/view/12733
-1.https://www.researchgate.net/profile/Mirjam-Palosaari-Eladhari/publication/242409102_Object_Oriented_Story_Construction_in_Story_Driven_Computer_Games/links/5cdac6a6a6fdccc9ddab0fb2/Object-Oriented-Story-Construction-in-Story-Driven-Computer-Games.pdf
-1.https://www.researchgate.net/profile/Freyr-Arinbjarnar/publication/228782329_Dynamic_plot_generating_engine/links/53dec3750cf216e4210c56dd/Dynamic-plot-generating-engine.pdf
+1. https://ojs.aaai.org/index.php/AIIDE/article/view/12733
+1. https://www.researchgate.net/profile/Mirjam-Palosaari-Eladhari/publication/242409102_Object_Oriented_Story_Construction_in_Story_Driven_Computer_Games/links/5cdac6a6a6fdccc9ddab0fb2/Object-Oriented-Story-Construction-in-Story-Driven-Computer-Games.pdf
+1. https://www.researchgate.net/profile/Freyr-Arinbjarnar/publication/228782329_Dynamic_plot_generating_engine/links/53dec3750cf216e4210c56dd/Dynamic-plot-generating-engine.pdf
 # Haptic storytelling 
 1. https://www.researchgate.net/publication/286895914_Feel_Effects_Enriching_Storytelling_with_Haptic_Feedback - well in some way relevant but could be better
 1. https://dl.acm.org/doi/abs/10.1145/2702613.2732843 - very relevant
@@ -51,8 +51,8 @@
 8. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/549-Physical%20Telepresence%20Shape%20Capture/Published/PDF
 9. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/600-Shape%20Displays%20Spatial%20Interaction/Published/PDF
 # AI Storyteling 
-1.https://ieeexplore.ieee.org/abstract/document/9522539
-1.https://dl.acm.org/doi/abs/10.1145/3491102.3517479
+1. https://ieeexplore.ieee.org/abstract/document/9522539
+1. https://dl.acm.org/doi/abs/10.1145/3491102.3517479
 1. https://aclanthology.org/P09-1025.pdf - very good
 # Annotated Refined Bibliography
 Possible research questions : 
@@ -60,6 +60,7 @@ Possible research questions :
 2. Selective modular decision making as methodology of artificial inteligence based story building technique in  height based haptic-audio realm as learning support system for kids. - good
 3. Haptic based world recognition using motorized pin art as main narrative device in the haptic storytelling as teaching support for braille alphabeth.
 # Possible Selected Refined Readings
+1. https://www.tandfonline.com/doi/full/10.1080/17483107.2022.2070676
 1. https://www.ijcset.com/docs/IJCSET17-08-03-026.pdf
 3. https://www.mdpi.com/2076-3417/9/5/878 - multimedia vision - very good
 6. https://www.mdpi.com/2414-4088/4/4/79 - yes - interesting possibly
