@@ -72,4 +72,4 @@ Possible research questions :
 6. https://link.springer.com/chapter/10.1007/978-3-031-22025-8_15 - tile map generation
 7. https://www.tandfonline.com/doi/full/10.1080/13875868.2011.599901?casa_token=tODXpJaqLeAAAAAA%3AyAPecgg705nGBwe7R0hXUtw3Gr8ratNEppYuBwkhKQhaTkfhv3p9DehmB3RtFhznc5wTWp9NrXGU1jw - spatial abilities
 # Annotated Bibliography
-## Selective modular decision making as methodology of artificial inteligence story building in motorized pin based haptic realm as umbrella project for braill learning system for kids.
+## Selective modular decision making as methodology of artificial inteligence story building in motorized pin based haptic realm as umbrella for braill learning system for kids.
