@@ -75,4 +75,4 @@ Possible research questions :
 5. https://aclanthology.org/P09-1025.pdf - very good
 6. https://link.springer.com/chapter/10.1007/978-3-031-22025-8_15 - tile map generation
 # Annotated Bibliography
-## Selective modular decision making as methodology of artificial inteligence story building technique in height based haptic realm as learning support system for kids.
+## Selective modular decision making as methodology of artificial inteligence story building technique in height based pin haptic realm as learning support system.
