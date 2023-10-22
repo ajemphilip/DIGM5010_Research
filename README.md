@@ -74,7 +74,6 @@ Possible research questions :
 # Annotated Bibliography
 ## Selective modular decision making as methodology of artificial inteligence story building in motorized pin based haptic realm as umbrella for braill learning system for kids.
 
-- Baiheng, L., & Wen, Z. (2020). Rethinking of Artificial Intelligence Storytelling of Digital Media. 2020 International Conference on Innovation Design and Digital Technology (ICIDDT), 112–115. https://doi.org/10.1109/ICIDDT52279.2020.00029
 - Fernandes, A. M., & Albuquerque, P. B. (2012). Tactual perception: A review of experimental variables and procedures. Cognitive Processing, 13(4), 285–301. https://doi.org/10.1007/s10339-012-0443-2
 - Follmer, S., Leithinger, D., Olwal, A., Hogge, A., & Ishii, H. (2013). inFORM: Dynamic physical affordances and constraints through shape and object actuation. Proceedings of the 26th Annual ACM Symposium on User Interface Software and Technology, 417–426. https://doi.org/10.1145/2501988.2502032
 - Hoskin, E. R., Coyne, M. K., White, M. J., Dobri, S. C. D., Davies, T. C., & Pinder, S. D. (2022). Effectiveness of technology for braille literacy education for children: A systematic review. Disability and Rehabilitation: Assistive Technology, 0(0), 1–11. https://doi.org/10.1080/17483107.2022.2070676
