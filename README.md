@@ -67,7 +67,6 @@ Possible research questions :
 6. https://www.mdpi.com/2414-4088/4/4/79 - yes - interesting possibly
 7. https://dl.acm.org/doi/abs/10.1145/2702613.2732843 - very relevant - cooperative story telling idea
 8. https://link.springer.com/article/10.1007/s10339-012-0443-2 - interaction between touch and other senses - literature
-9. https://ieeexplore.ieee.org/abstract/document/9929479 - might be good but read more
 3. https://trackr-media.tangiblemedia.org/publishedmedia/Papers/527-inFORM%20Dynamic%20Physical%20Affordances/Published/PDF
 4. https://ieeexplore.ieee.org/abstract/document/9522539 - AI storytelling
 5. https://aclanthology.org/P09-1025.pdf - very good
