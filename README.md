@@ -53,7 +53,7 @@
 1.https://ieeexplore.ieee.org/abstract/document/9522539
 1.https://dl.acm.org/doi/abs/10.1145/3491102.3517479
 1. https://aclanthology.org/P09-1025.pdf - very good
-# Annotated Bibliography
+# Annotated Refined Bibliography
 Possible research questions : 
 1. Haptic-sound storytelling techniques using the automated pinboard sensations as learning support system for kids.
 2. Selective modular decision making as methodology of artificial inteligence based story building technique in  height based haptic-audio realm as learning support system for kids. - good
